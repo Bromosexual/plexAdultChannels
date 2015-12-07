@@ -1,0 +1,9 @@
+[submodule "RedTube.bundle"]
+	path = RedTube.bundle
+	url = https://github.com/flownex/RedTube.bundle.git
+[submodule "xHamster.bundle"]
+	path = xHamster.bundle
+	url = https://github.com/flownex/xHamster.bundle
+[submodule "PornHub.bundle"]
+	path = PornHub.bundle
+	url = https://github.com/mattspunk/PornHub.bundle.git
