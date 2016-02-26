@@ -10,3 +10,6 @@
 [submodule "XNXX.bundle"]
 	path = XNXX.bundle
 	url = https://github.com/flownex/XNXX.bundle
+[submodule "YouPorn.bundle"]
+	path = YouPorn.bundle
+	url = https://github.com/plex-unofficial/YouPorn.bundle.git
